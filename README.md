@@ -1,4 +1,4 @@
-# phano-ai
+# Phano
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,122 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-phano-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://phano.ai/
+Phano provides an AI-powered composite platform for Customer Success and Account Management. It helps businesses protect accounts, accelerate revenue, and streamline daily operations with AI-driven diagnostics, meeting preparation, and integration with any CRM. The solution offers tools for churn prediction, account expansion, and health scoring, available via a 30‑day free trial without a credit card.
+
+**Areas:** Company · AI · Customer Success · SaaS · CRM
+
+## Phano on APIs.io
+
+Everything profiled for Phano is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/phano-ai/](https://apis.io/providers/phano-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Phano API](https://apis.io/apis/phano-ai/phano-api/) — API documentation and reference for Phano AI platform
+- [Phano API](https://apis.io/apis/phano-ai/phano-ai-api/) — Phano API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-20); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostYourEndpointRequest](https://apis.io/schemas/phano-ai/phano-ai-post-your-endpoint-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Phano Ai Context](https://apis.io/jsonld/phano-ai/phano-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Phano API Rules](https://apis.io/rules/phano-ai/phano-ai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Phano Authentication](https://apis.io/security/phano-ai/phano-ai-authentication/)
+- [Phano Domain Security](https://apis.io/security/phano-ai/phano-ai-domain-security/)
+- [Phano Trust Center](https://apis.io/security/phano-ai/phano-ai-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Phano Plans Pricing](https://apis.io/plans/phano-ai/phano-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://phano.ai/)
+- [Documentation](https://phano.ai/guides)
+- [Getting started](https://phano.ai/customer-success/onboarding-client-saas)
+- [Pricing](https://phano.ai/pricing)
+- [Sign up](https://phano.ai/auth/signup)
+- [Blog](https://phano.ai/blog)
+- [Security](https://phano.ai/security)
+- [Compliance](https://phano.ai/security)
+- [Terms of service](https://phano.ai/terms)
+- [Privacy policy](https://phano.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 53.2** — developing · rubric 0.27.0 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 47.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 79.5 |
+
+**Agent readiness 18.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/phano-ai/](https://apis.io/providers/phano-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Phano: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/phano-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
